@@ -4,7 +4,15 @@
 
 Evil Wormhole   update 2023.4. 1 
 
+
+[how to local deploy DF ARES 0.1.1 basic demo](https://dfares.notion.site/local-deploy-DF-ARES-basic-demo-dc8894ecc4314a05af72aaaaa9e24742)
+
+[more information about DF ARES](https://dfares.notion.site/DF-ARES-Main-ca9238c3fee8418d933079d5d28eab3b)
+
+
 fork from https://github.com/darkforest-eth/darkforest-v0.6
+
+
 
 # darkforest
 

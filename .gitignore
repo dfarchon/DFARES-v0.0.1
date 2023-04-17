@@ -16,6 +16,7 @@ node_modules
 .vscode/slither-results.json
 
 # Yarn stuff
+.yarnrc.yml
 /.yarn/*
 !/.yarn/releases
 !/.yarn/plugins
